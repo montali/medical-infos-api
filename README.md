@@ -28,3 +28,7 @@ to receive:
   "Prevenzione": "Il 50% degli ictus ischemici potrebbe essere prevenuto modificando lo stile di vita; infatti esso è attribuibile ad una mancata adesione ad uno stile di vita salutare (astensione dal fumo, regolare attività fisica e alimentazione corretta)Come si può prevenire l’ictus:"
 }
 ```
+
+## Next steps
+
+- I'd like to add a synonym search to get terms even if the patient uses a different name.
