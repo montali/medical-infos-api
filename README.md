@@ -31,4 +31,4 @@ to receive:
 
 ## Next steps
 
-- I'd like to add a synonym search to get terms even if the patient uses a different name.
+- ~I'd like to add a synonym search to get terms even if the patient uses a different name.~ Done in the bot
